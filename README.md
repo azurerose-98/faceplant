@@ -13,7 +13,7 @@ It takes 2 arguments:<br />
     1. the filename of the tagret word list<br />
     2. the filename of the target page list<br />
 <br />
-It is dependent on a file called "userapp.json" containing the App ID and App Secret to be used<br />
+It is dependent on a file called "userapp.json" containing the App ID and App Secret in JSON format<br />
 </p>
 
 </body>

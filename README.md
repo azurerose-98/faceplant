@@ -18,7 +18,7 @@ It is dependent on a file called "userapp.json" containing the App ID and App Se
 </p>
 
 <p>
-This script was adapted from <a href="http://minimaxir.com">Max Woolf</a> <a href="https://github.com/minimaxir/facebook-page-post-scraper/blob/master/examples/how_to_build_facebook_scraper.ipynb">facebook page post scraper</a><br />
+This script was adapted from <a href="http://minimaxir.com">Max Woolf's</a> <a href="https://github.com/minimaxir/facebook-page-post-scraper/blob/master/examples/how_to_build_facebook_scraper.ipynb">facebook page post scraper</a><br />
 His blog post detailing its construction can be found <a href="http://minimaxir.com/2015/07/facebook-scraper/">here</a><br />
 </p>
 
